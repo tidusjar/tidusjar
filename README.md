@@ -24,9 +24,8 @@ Currently I am working at [myairops](https://myairops.com/) as a Technical Lead,
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Ombi](https://github.com/tidusjar/ombi);
-- 🌱 I’m currently learning about and working with NativeScript {N}
+- 🌱 I’m currently learning about and working with React Native
 - 👯 I’m looking to collaborate on [Ombi](https://github.com/tidusjar/ombi) 🤝;
-- 🤔 I’m looking for help with NativeScript, experts always welcome!
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I actually started Ombi as a learning exercise, my intentions was never to actually get anywhere with it! 
 - 📫 How to reach me: tidusjar@gmail.com;
