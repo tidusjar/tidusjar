@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jamie</h1>
 <h3 align="center">A passionate full stack dev from the UK 🚀</h3>
 
-<p>Currently I am working at <a href="https://myairops.com/">myairops</a> as a Technical Lead, I'm also a <a href="https://dotnetfoundation.org/">.Net Foundation</a> member 🎉! You also may know me from my work on the open source application <a href="https://ombi.io">Ombi</a> 😲. In my spare time outside of coding, I look after my son and daughter!
+<p>Currently I am working at a software company as a Technical Lead, I'm also a <a href="https://dotnetfoundation.org/">.Net Foundation</a> member 🎉! You also may know me from my work on the open source application <a href="https://ombi.io">Ombi</a> 😲. In my spare time outside of coding, I look after my son and daughter!
 </p>
 
 <p align="left"> <a href="https://twitter.com/tidusjar" target="blank"><img src="https://img.shields.io/twitter/follow/tidusjar?logo=twitter&style=for-the-badge" alt="tidusjar" /></a> </p>
